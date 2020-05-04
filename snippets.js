@@ -1,4 +1,4 @@
-<script>
+//call to php
 function test() {
     jQuery.ajax({
         type: "POST",
@@ -12,4 +12,3 @@ function test() {
     })
 }
 
-</script>

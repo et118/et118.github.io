@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="../jquery.min.js"></script>
+        <script src="../jquery_cookie.js"></script>
+        <script src="../init.js"></script>
+        <style>
+            b {
+                display:block;
+                text-align: center;
+                margin-top: 100px;
+                font-size: 20px;
+            }
+            input {
+                display: block;
+                margin:auto;
+                width: 200px;
+                height: 80px;
+                font-weight: bold;
+            }
+
+        </style>
+    </head>
+    <body>
+        <script>
+            if(!!$.cookie("useCookies")) {
+                //Have cookie
+                document.location = "../home"
+            }
+            function acceptCookie() {
+                document.cookie = "useCookies=YES; expires=Thu, 18 Dec 3000 12:00:00 UTC; path=/";
+                location.reload();
+            }
+            function test() {
+                alert(1);
+            }
+        </script>
+        <b>This site uses cookies. If you are not a cookie monster and don't like good good cookies then leave. Else click accept:</b>
+        <input type="button" value="Accept" onclick="acceptCookie()">
+    </body>
+</html>
