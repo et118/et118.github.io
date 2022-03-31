@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: et118
 description: This is my website
+github:
+  is_project_page: false
