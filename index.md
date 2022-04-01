@@ -20,7 +20,7 @@ Right now I'm working with the **TTGO Smartwatch** platform to develop a fully c
 - [T-Watch OS](https://github.com/et118/T-Watch-OS) (2021) - Software for the **TTGO T-Watch esp32** that has a number of apps including a Timer and a Stopwatch.
 - [Midi2Key C++](https://github.com/et118/Midi2KeyCpp) (2022) - A **Windows** console application that translates **Midi** inputs from a keyboard to [Virtual Piano](https://virtualpiano.net/) keypresses.
 
-### Lua Projects
+### Lua Projects:
 - [ComputerCraft Scripts](https://github.com/et118/CC) (2021) - Controlling game bots with **Lua** scripts in Minecraft.
 
 ### Abandoned projects:
