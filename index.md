@@ -28,6 +28,7 @@ Right now I'm working with the **TTGO Smartwatch** platform to develop a fully c
 - [BlackJackHack: **Javascript + HTML**](https://et118.github.io/BlackJackHack/) (2019) - A **Blackjack** betting calculator web app that calculates your best possible bet depending on how many cards are left in the deck.
 
 ## Socials
+- [LinkedIn](https://www.linkedin.com/in/elliot-toll-04b376236/)
 - [Github](https://github.com/et118)
 - [Scratch](https://scratch.mit.edu/users/et118/)
 - [Soundcloud](https://soundcloud.com/et118)
