@@ -1,5 +1,5 @@
 ## Info
-Hi, I'm a 16 year old self learned programmer and I have been working on a bunch of different projects for a couple of years. I started out with [Scratch](https://scratch.mit.edu/) around 2014 and then switched over to Python for a couple of years. I also experimented with HTML, Javascript and CSS and created a couple of small websites. In 2018 I created my first Java project and after that Java has been my main language. In 2019 I started experimenting with Arduino and C. I built some small robots and circuits and did a bunch of tests. 2021 was the year when I created my first bigger C project. It controlled a self built WiFi car. I used an esp32 to get HTTP commands over wifi and developed an android app to control it. I also learned C++ and programmed software for a TTGO Smartwatch. Today my biggest language is Java but I have also worked with similar languages such as C# in Unity. 
+Hi, I'm a 16 year old self learned programmer and I have been working on a bunch of different projects for almost 9 years. I started out with [Scratch](https://scratch.mit.edu/) around 2014 and then switched over to Python for a couple of years. I also experimented with HTML, Javascript and CSS and created a couple of small websites. In 2018 I created my first Java project and after that Java has been my main language. In 2019 I started experimenting with Arduino and C. I built some small robots and circuits. 2021 was the year when I created my first bigger C project. It controlled a self built WiFi car. I used an esp32 to get HTTP commands over wifi and developed an android app to control it. I also learned C++ and programmed software for a TTGO Smartwatch. Today my most used language is Java but I have also worked with some other languages such as C# in Unity. 
 
 ## Projects
 
@@ -24,7 +24,7 @@ Hi, I'm a 16 year old self learned programmer and I have been working on a bunch
 - [BlackJackHack: **Javascript + HTML**](https://et118.github.io/BlackJackHack/) (2019)
 
 ## Socials
-- [Scratch](https://scratch.mit.edu/users/et118/)
 - [Github](https://github.com/et118)
+- [Scratch](https://scratch.mit.edu/users/et118/)
 - [Soundcloud](https://soundcloud.com/et118)
 - [Spotify](https://open.spotify.com/artist/5xgOERAwVvvOza21K1YAJ8?si=xVlD0GAKS_OxTfLKIEMJvQ)
