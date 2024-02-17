@@ -39,7 +39,7 @@ My latest projects have been developing self-hosted AI bots on **Discord** in C#
 - [Spotify](https://open.spotify.com/artist/5xgOERAwVvvOza21K1YAJ8?si=xVlD0GAKS_OxTfLKIEMJvQ)
 
 ## Images
-![AI Bot]("https://github.com/et118/et118.github.io/assets/51513175/161bc370-4324-44f9-8d29-60d5145edcf6")
+![AI Bot](https://github.com/et118/et118.github.io/assets/51513175/10f514bb-9787-4734-b5df-e94067f97aba)
 Image: El Gogh creating pictures of beautiful landscapes in Discord
 ![AI Bot DND]("https://github.com/et118/et118.github.io/assets/51513175/18ef3189-8c87-41cc-b503-3ba5a5a98db0")
 Image: El Gogh creating pictures of DnD characters
