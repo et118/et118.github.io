@@ -3,12 +3,12 @@ Hi, I'm an 18 year old self learned programmer and I have been working on progra
 <br><br>
 I have tried a number of different programming languages. First I started out with graphical programming in [Scratch](https://scratch.mit.edu/) but later switched over to **Python**. I also experimented with **HTML, Javascript and CSS** and created a couple of small web apps. In 2018 I created my first **Java** project and started with **C# in Unity**. That was the first time I got into **Object Oriented Programming** which has stuck with me ever since. In 2019 I started experimenting with **Arduino and C**. I built some small robots and circuits and then progressed to building a WiFi controlled car in C. This project included an Arduino, **esp32** and an **Android app** that controlled the car remotely. The next project was making firmware for the **TTGO Smartwatch** with the goal to develop a fully customizable user interface from which I can run my own applications.
 <br><br>
-My latest projects have been developing self-hosted AI bots on **Discord** in C# that I can use with my friends to generate custom images such as [El Gogh]("https://github.com/et118/El_Gogh"). I'm currently in the process of rewriting the whole bot to add new features and more customizable commands. You can check it out [here]("https://discord.gg/JfQyTbbSka").
+My latest projects have been developing self-hosted AI bots on **Discord** in C# that I can use with my friends to generate custom images such as [El Gogh](https://github.com/et118/El_Gogh). I'm currently in the process of rewriting the whole bot to add new features and more customizable commands. You can check it out [here]("https://discord.gg/JfQyTbbSka").
 
 ## Projects
 
 ### C# Projects:
-- [El Gogh](https://github.com/et118/El_Gogh) (2023) - An AI image generating **Discord** bot that can follow your prompts to create anything! [Try it out]("https://discord.gg/JfQyTbbSka")
+- [El Gogh](https://github.com/et118/El_Gogh) (2023) - An AI image generating **Discord** bot that can follow your prompts to create anything! [Try it out](https://discord.gg/JfQyTbbSka)
 
 ### Java Projects:
 - [Midi Piano Player](https://github.com/et118/MIDI-Piano-Player) (2021) - A **Java** application that converts and plays midi files on a [Virtual Piano](https://virtualpiano.net/). I made this to play custom music in games such as **Roblox**.
