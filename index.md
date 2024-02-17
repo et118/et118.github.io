@@ -41,9 +41,9 @@ My latest projects have been developing self-hosted AI bots on **Discord** in C#
 ## Images
 ![AI Bot](https://github.com/et118/et118.github.io/assets/51513175/10f514bb-9787-4734-b5df-e94067f97aba)
 Image: El Gogh creating pictures of beautiful landscapes in Discord
-![AI Bot DND]("https://github.com/et118/et118.github.io/assets/51513175/18ef3189-8c87-41cc-b503-3ba5a5a98db0")
+![AI Bot DND](https://github.com/et118/et118.github.io/assets/51513175/9fdef8fd-09d5-44e2-acaf-7b6d979c0416)
 Image: El Gogh creating pictures of DnD characters
-![Bad Apple]("https://github.com/et118/et118.github.io/assets/51513175/4afcda62-d314-4b5d-a9fc-0fbbb1e357c7")
+![Bad Apple](https://github.com/et118/et118.github.io/assets/51513175/d8ab5247-b3d8-4fa2-94de-aceec4040285)
 Image: Playing a video of Bad Apple inside of a lectern in Minecraft
 ![Music Bot](https://user-images.githubusercontent.com/51513175/161195915-47b6b421-b5be-422d-982d-b860435c0cd3.png)
 Image: Discord Music Bot playing good music
